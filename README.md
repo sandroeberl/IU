@@ -1,0 +1,1 @@
+Zum lokalen Starten der Microseite wird ein Webserver benötigt. Im Rahmen der Entwicklung wurde hierfür browser-sync mit NodeJS verwendet. Nach einem Klonen des Projektes kann es einfach mit browser-sync -s -f . aufgerufen werden.
